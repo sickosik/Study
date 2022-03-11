@@ -5,9 +5,7 @@
 
 ## Java
 
-1. [JVM](Java/JVM.md)
-
-   
+1. [JVM]: Java/JVM.md
 
 
 
