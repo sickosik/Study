@@ -5,7 +5,7 @@
 
 ## Java
 
-1. [JVM]: Java/JVM.md
+1. [JVM](Java/JVM.md)
 
 
 
@@ -35,9 +35,9 @@
 
 ## Spring
 
-1. [JPA]: Spring/SpringBoot_프로젝트에_JPA_적용하기.md
+1. [JPA](Spring/SpringBoot_프로젝트에_JPA_적용하기.md)
 
-2. [Lombok]: Spring/SpringBoot_프로젝트에_롬복(lombok)_적용하기.md
+2. [Lombok](Spring/SpringBoot_프로젝트에_롬복\(lombok\)_적용하기.md)
 
 
 
